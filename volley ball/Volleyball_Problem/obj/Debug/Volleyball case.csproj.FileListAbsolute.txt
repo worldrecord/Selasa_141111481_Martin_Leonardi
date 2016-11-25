@@ -1,0 +1,9 @@
+C:\Users\user\Downloads\Selasa_141111481_Martin_Leonardi\volley ball\Volleyball_Problem\bin\Debug\Volleyball_Problem.exe.config
+C:\Users\user\Downloads\Selasa_141111481_Martin_Leonardi\volley ball\Volleyball_Problem\obj\Debug\Volleyball_Problem.exe
+C:\Users\user\Downloads\Selasa_141111481_Martin_Leonardi\volley ball\Volleyball_Problem\obj\Debug\Volleyball_Problem.pdb
+C:\Users\user\Downloads\Selasa_141111481_Martin_Leonardi\volley ball\Volleyball_Problem\bin\Debug\Volleyball_Problem.exe
+C:\Users\user\Downloads\Selasa_141111481_Martin_Leonardi\volley ball\Volleyball_Problem\bin\Debug\Volleyball_Problem.pdb
+C:\Users\user\Downloads\Selasa_141111481_Martin_Leonardi\volley ball\Volleyball_Problem\obj\Debug\Volleyball case.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Selasa_141111481_Martin_Leonardi\volley ball\Volleyball_Problem\obj\Debug\Volleyball_Problem.Form1.resources
+C:\Users\user\Downloads\Selasa_141111481_Martin_Leonardi\volley ball\Volleyball_Problem\obj\Debug\Volleyball_Problem.Properties.Resources.resources
+C:\Users\user\Downloads\Selasa_141111481_Martin_Leonardi\volley ball\Volleyball_Problem\obj\Debug\Volleyball case.csproj.GenerateResource.Cache
