@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Point of Sales\Pertemuan11_a\bin\Debug\Pertemuan11_a.exe.config
+C:\Users\user\Desktop\Point of Sales\Pertemuan11_a\obj\Debug\Pertemuan11_a.exe
+C:\Users\user\Desktop\Point of Sales\Pertemuan11_a\obj\Debug\Pertemuan11_a.pdb
+C:\Users\user\Desktop\Point of Sales\Pertemuan11_a\obj\Debug\Point of Sales.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Point of Sales\Pertemuan11_a\obj\Debug\Pertemuan11_a.Form1.resources
+C:\Users\user\Desktop\Point of Sales\Pertemuan11_a\obj\Debug\Pertemuan11_a.Properties.Resources.resources
+C:\Users\user\Desktop\Point of Sales\Pertemuan11_a\obj\Debug\Point of Sales.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Point of Sales\Point of Sales\bin\Debug\Pertemuan11_a.exe.config
+C:\Users\user\Desktop\Point of Sales\Point of Sales\obj\Debug\Pertemuan11_a.exe
+C:\Users\user\Desktop\Point of Sales\Point of Sales\obj\Debug\Pertemuan11_a.pdb
